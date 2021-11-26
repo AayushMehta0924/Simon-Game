@@ -1,3 +1,3 @@
 ## Simon Game
 
-A mini project where we can play the original Simon game on our browser!
+A web app where we can play the original Simon game on the browser!
