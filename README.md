@@ -1,6 +1,6 @@
 # Simon Game
 
-### A web app where we can play the original Simon game on the browser!
+### A web app where you can play the original Simon game on the browser!
 
 ## Instructions:
 
